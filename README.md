@@ -226,6 +226,7 @@ You can use **enableAutoPage** to enable auto page mode or disable it(equally en
     mPageFlip.setShadowWidthOfFoldBase(5, 40, 0.4f);
   ```
 
+
 #### 12. Duration of flip animating
 
   You can give a duration for flip animating when you call **onFingerUp** function to handle the finger up event.
